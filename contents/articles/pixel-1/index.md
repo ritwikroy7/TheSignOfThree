@@ -1,0 +1,18 @@
+---
+title: The Pixel and the Code - Part 1
+author: ritwik
+date: 2013-12-18
+template: article.jade
+---
+
+Having worked exclusively on the Microsoft technology stack over the last three years I had begun feeling very limited. The constraint was definitely not technical - much can be accomplished by the .Net Framework and Microsoft's seamless integration between each component in its development platform is laudable. It was philosophical.
+
+<span class="more"></span>
+
+The world of computer programming had been moving very fast. Every day there were new concepts, patterns and practices challenging the conventionality of their predecessors. And A lot of these developments were being made in [open source](http://en.wikipedia.org/wiki/Open-source_software) platforms. My introduction to the notion of open source was in University when I first installed [Ubuntu Linux 8.04](http://en.wikipedia.org/wiki/Hardy_Heron#Ubuntu_8.04_LTS_.28Hardy_Heron.29) on my PC. I immediately fell in love with its modern aesthetic, customization and control. I believed in the ideology of free, non-proprietary, collaborative development as an attempt to drive innovation and make technology available to all. And now, as a web programmer, I wanted to develop using instruments that were in alignment with these values.
+
+Now, I am obsessively picky about the hardware that I use. I absolutely despise the workstation that I'm provided with at work. Being an avid PC gamer I have been building high-end desktops for myself and my friends since University. Until very recently, to me, the idea of purchasing a laptop had been extraneous, as I traveled very little. However, I ultimately figured it was time. I wanted to have a device with me at all times such that I could pursue my new-found interest irrespective of time and location. 
+
+The premise of the Chromebook is an intriguing one. I am a fan of Google's approach to technology for the consumer market. Having owned a Nexus S and a Nexus 4, I can say that I'm very impressed. I could see how the Chromebook could be a viable alternative to a tablet, but as a full-fledged development machine, I had always been skeptical, even with the advent of a number of cloud development platforms and IDEs. The [Chromebook Pixel](https://www.google.com/intl/en/chrome/devices/chromebook-pixel/) changed all of that. It was, by far, the most beautiful device I had ever seen. The hardware specifications were reasonable. But it was outrageously expensive. The biggest downside for me, however, was the Chrome OS. I required an ecosystem that was conducive to web and application. An elegant and simplistic web-based OS did not fit that bill. Then began a period of great deliberation and research toward picking a tool for my trade. Aesthetically, the only other product that appealed to me was Apple's 13" MacBook Pro.
+
+If anyone were to seek my opinion in making a decision between the above devices, I would, hands-down, recommend the MacBook Pro. For the money, it is definitely a better buy, if for nothing else but a fully featured desktop OS in OS X. I, apparently, border on the eccentric. For me, what tipped the scales in favour of the Chromebook Pixel was David Schneider and his set of scripts - [Crouton](https://github.com/dnschneid/crouton) - that made it possible to run Ubuntu / Debian in parallel with Chrome OS. That was all I needed. I was traveling to the United States at the time and had it ordered there. Having exclusively used this device for two and a half months to the date, I can see why Linus Torvalds is a proponent of the Pixel. It's been sheer pleasure using it as my primary development device. To the modest excesses in life...
