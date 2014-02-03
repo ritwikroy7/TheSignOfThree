@@ -1,4 +1,3 @@
+# MyBlog
 
-# Blog
-
-The default [wintersmith](https://github.com/jnordberg/wintersmith) template
+This repo contains the entire source for my blog - The Sign of Three - created using Wintersmith.IO. 
