@@ -2,7 +2,7 @@
 h1, h2, h3, h4, h5, h6, p, body, a, img, ul, ol, blockquote, pre {
   margin: 0; padding: 0; border: 0;
 }
-
+/*#2B6CC2*/
 body {
   font-family: 'DejaVu Sans';
   font-size: 21px;
@@ -287,6 +287,9 @@ blockquote {
   margin: 1.2em 3em;
   padding-left: 1em;
   font-style: italic;
+  color: #AAAAAA;
+  border-left: solid;
+  border-left-color: #13A4F2;
 }
 
 hr {
@@ -508,7 +511,7 @@ footer .copy, footer .copy a {
 
 .archive {
   width: 80%;
-  margin: 0em auto 13%;
+  margin-left: 1%;
   padding-left: 2.5%;
   margin-top: 5em;
 }
@@ -518,7 +521,7 @@ footer .copy, footer .copy a {
   text-transform: uppercase;
   letter-spacing: 0.07em;
   margin: 0;
-  margin-left: 34.5%;
+  margin-left: 42.5%;
   margin-bottom: 1em;
   font-family: 'DejaVu Sans';
   font-weight: 400;
